@@ -8,6 +8,7 @@
     "legacy",
     "templates"
   ],
+  "license": "MIT",
   "authors": [
     {
       "name": "Sebastian Zoglowek",
