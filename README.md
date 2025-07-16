@@ -20,13 +20,11 @@ Please follow the official Contao and Twig documentation if you want to learn mo
 
 ### Templates that are restored
 
-Besides the `html`-Template (it only embeds your html), the following Content-Elements are restored to their legacy HTML
-version.
-
 #### Content Elements
 
 * Code
 * Headline
+* HTML
 * List
 * Text
 * Table
